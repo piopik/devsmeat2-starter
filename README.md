@@ -19,3 +19,9 @@ Browser client created for devmeats #2 workshops.
 
 - **npm run dev** run in development mode.
 - **npm run build** build distribution version
+
+## Authors
+
+Piotrek Polus <ppolus@sointeractive.pl>
+
+www.sointeractive.pl
